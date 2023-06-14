@@ -1,11 +1,3 @@
-// const number = document.createElement('div');
-// number.classList.add('col', 'number');
-// const fizz = document.createElement('div');
-// fizz.classList.add('col', 'fizz');
-// const buzz = document.createElement('div');
-// buzz.classList.add('col', 'buzz');
-// const fizzbuzz = document.createElement('div');
-// fizzbuzz.classList.add('col', 'fizzbuzz');
 const fizzbuzzGrid = document.getElementById('fizzbuzzGrid');
 
 for (let i = 1; i <= 100; i++){
